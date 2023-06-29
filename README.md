@@ -3,4 +3,8 @@
 test.c 
 test2.c
 
+add
+pull 
+push
+checkout
 
